@@ -1,0 +1,24 @@
+div {
+  background-color: black ;
+ padding;300px;
+}
+.div1 {
+  height:100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+  border-color: white;
+  border-style: double;
+}
+.div2 {
+  height:100px;
+  width:100px;
+  background-color:yellow;
+  border-radius:50%;
+}
+.div3 {
+  height 100px;
+  width 100px;
+  background-color:red;
+  border-radius:50%;
+ }
